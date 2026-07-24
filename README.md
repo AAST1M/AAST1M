@@ -8,6 +8,7 @@
 
 👨‍💻 **Software Engineering Student** | **Full-Stack Developer** | **Algorithm & Digital Systems Designer**  
 🏫 Studying Computer Science at **Arab Academy for Science, Technology & Maritime Transport (AASTMT)** — Smart Village Campus.  
+🌐 **Personal Portfolio**: [https://github.com/AAST1M/portfolio](https://github.com/AAST1M/portfolio)  
 💡 Experienced in architecting complex software projects, data structures, digital logic simulators, and web applications.  
 🛠️ **Core Technologies**: JavaScript (ES6+), C++, Python, Java, Node.js, HTML5, CSS3, Data Structures & Algorithms.
 
@@ -15,6 +16,7 @@
 
 ## 🌐 Socials & Contact:
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=cloudflare&logoColor=white)](https://github.com/AAST1M/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AAST1M)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwan@aast.edu)
@@ -24,6 +26,7 @@
 ## 💻 Tech Stack & Engineering Skills:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,13 +41,20 @@
 
 ## ⭐ Featured Projects:
 
+### 🌐 [Personal Developer Portfolio](https://github.com/AAST1M/portfolio)
+> **Executive Portfolio Website & Project Showcase**
+* **Technologies**: HTML5, CSS3, JavaScript, Vite.
+* **Features**: Dark obsidian glassmorphism UI, interactive project carousel gallery, modal previews, and responsive layouts.
+
 ### ⚡ [Mario Logic & Algo Pro](https://github.com/AAST1M/mario-logic-algo)
 > **Interactive Digital Logic Circuit Simulator, Truth Table Matrix Evaluator & Karnaugh Map Solver**
 * **Technologies**: Vanilla JavaScript, Canvas 2D API, Vite, Node.js Test Runner.
 * **Key Capabilities**: Interactive circuit modeling, automated 2-4 variable Quine-McCluskey K-Map solver, boolean algebra parser, and printable PDF specification sheet generation.
 
-### 📚 Academic & University Software Projects (AAST)
-* Architected high-performing data structures, object-oriented systems, database schemas, and algorithm implementations across computer science coursework at AAST Smart Village.
+### 🚗 [Auto-Care AI Platform](https://github.com/AAST1M/auto-CARe)
+> **Integrated Platform for Automotive Diagnostics, Workshop Discovery & Emergency Roadside Assistance**
+* **Technologies**: React 19, TypeScript, Google Gemini AI, Vite.
+* **Key Capabilities**: Gemini AI diagnostic fault code analysis, real-time winching dispatch with fair price negotiation, and verified workshop booking.
 
 ---
 
