@@ -1,6 +1,6 @@
 # 🎓 Marwan El-Sawy (`@AAST1M`)
 
-### 🚀 Computer Science & Software Engineering Student @ AAST (Smart Village Campus)
+### 🚀 Computer Science & Software Engineering Student at AAST (Smart Village Campus)
 
 ---
 
